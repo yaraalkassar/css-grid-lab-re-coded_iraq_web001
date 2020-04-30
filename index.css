@@ -18,3 +18,4 @@ body {
 }
 
 /* add the .bigItem class */
+grid-template: 1fr 1fr 1fr 1fr / 1fr 1fr 1fr;
